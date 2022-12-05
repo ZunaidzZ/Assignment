@@ -1,0 +1,146 @@
+.container{
+    margin-bottom: 80px;
+}
+
+.button {
+    background-color: rgb(10, 137, 16);
+    border: none;
+    color: rgba(255, 255, 255, 0.982);
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+.button:hover{
+    background-color: rgb(9, 83, 9);
+  }
+
+span{
+    color: rgb(10, 137, 16);
+}
+
+.learn{
+    color: orangered;
+}
+
+.banner{
+    background-color: rgb(201, 230, 195);
+}
+
+.x{
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+.a img{
+    border: 1px;
+    height: 150px;
+    width: 100px;
+    display: block;
+    margin: auto;
+  
+  
+}
+.b img{
+    border: 1px;
+    height: 150px;
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+.c img{
+    border: 1px;
+    height: 150px;
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+.d img{
+    border: 1px;
+    height: 150px;
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+
+.e{
+    margin-right: 75px;
+}
+
+.a{
+    background-color: rgb(201, 230, 195);
+    padding: 20px;
+    margin: 10px;
+    display: block;
+    
+    
+}
+.b{
+    background-color: rgb(201, 230, 195);
+    padding: 20px;
+    margin: 10px;
+    display: block;
+    
+}
+.c{
+    background-color: rgb(201, 230, 195);
+    padding: 20px;
+    margin: 10px;
+    display: block;
+   
+}
+.d{
+    background-color: rgb(201, 230, 195);
+    padding: 20px;
+    margin: 10px;
+    display: block;
+    
+}
+
+.a:hover{
+    box-shadow: 5px 5px 10px;
+    background-color: rgb(9, 83, 9);
+    
+}
+
+.b:hover{
+    box-shadow: 5px 5px 10px;
+    background-color: rgb(9, 83, 9);
+    
+}
+.c:hover{
+    box-shadow: 5px 5px 10px;
+    background-color: rgb(9, 83, 9);
+    
+}
+.d:hover{
+    box-shadow: 5px 5px 10px;
+    background-color: rgb(9, 83, 9);
+    
+}
+
+.j img{
+    width: 200px;
+    height: 200px;
+}
+
+.bottom{
+    background-color: rgb(38, 22, 53);
+    color: antiquewhite;
+}
+
+.bottom footer{
+    text-align: center;
+}
+
+.z{
+    padding-top: 50px;
+}
+
+.y{
+    margin-top: 50px;
+}
